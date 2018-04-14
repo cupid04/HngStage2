@@ -1,0 +1,35 @@
+body{
+	background: linear-gradient(to bottom right, #92d1d8, #7b4df1) no-repeat center center fixed;
+	background-size: auto;
+}	
+.container{
+	margin: auto;
+	max-width: 1000px;
+
+}
+.content{
+	padding-top: 50px;
+	margin: auto;
+}
+img{
+	float: left;
+	width: 50%;	
+	
+}
+.text{
+	color: #ffffff;
+	font-family: "Lato", helvetica, sans-serif;
+	text-align: right;
+	font-size: 20px;
+	margin-top: 100px;
+	}
+blockquote{
+	font-size: 25px;
+}
+.time{
+	margin-top: 100px;
+}
+.time p{
+	font-size: 40px;
+	line-height: 0.1;
+}
